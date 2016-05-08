@@ -1,0 +1,12 @@
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.dll
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.pdb
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.BusinessLayer.dll
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.Entities.dll
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.DataAccess.dll
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.BusinessLayer.pdb
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.Entities.pdb
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.DataAccess.pdb
+C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.csprojResolveAssemblyReference.cache
+C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.dll
+C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.pdb
+C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.dll.config

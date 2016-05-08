@@ -1,0 +1,4 @@
+C:\Acueto_JobLogger\JobLogger.Entities\bin\Debug\JobLogger.Entities.dll
+C:\Acueto_JobLogger\JobLogger.Entities\bin\Debug\JobLogger.Entities.pdb
+C:\Acueto_JobLogger\JobLogger.Entities\obj\Debug\JobLogger.Entities.dll
+C:\Acueto_JobLogger\JobLogger.Entities\obj\Debug\JobLogger.Entities.pdb

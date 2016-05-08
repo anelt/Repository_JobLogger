@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="35888cb3-c0ff-42f7-9e06-3bea6a25b7f0" name="acueto@ANELT 2016-05-08 18:56:47" runUser="ANELT\acueto" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="377a336a-604e-405d-b6ba-9d28b37662a5">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="acueto_ANELT 2016-05-08 18_56_47">
+      <DeploymentItem filename="C:\Acueto_JobLogger\JobLogger.Entities\bin\Debug\JobLogger.Entities.dll" />
+      <DeploymentItem filename="C:\Acueto_JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.BusinessLayer.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-05-08T18:56:47.3246502-03:00" queuing="2016-05-08T18:56:47.6088020-03:00" start="2016-05-08T18:56:47.6353189-03:00" finish="2016-05-08T18:56:49.5801746-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LogMessageToDataBase_Insert" storage="c:\acueto_joblogger\testprojectjoblogger\bin\debug\testprojectjoblogger.dll" id="40a8a25c-3a7c-64cf-5d8a-c4a270cedd28">
+      <Execution id="183a675f-17ec-4cb1-9340-80994a8526e9" />
+      <TestMethod codeBase="C:/Acueto_JobLogger/TestProjectJobLogger/bin/Debug/TestProjectJobLogger.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProjectJobLogger.JobLoggerTest, TestProjectJobLogger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogMessageToDataBase_Insert" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="40a8a25c-3a7c-64cf-5d8a-c4a270cedd28" executionId="183a675f-17ec-4cb1-9340-80994a8526e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="183a675f-17ec-4cb1-9340-80994a8526e9" testId="40a8a25c-3a7c-64cf-5d8a-c4a270cedd28" testName="LogMessageToDataBase_Insert" computerName="ANELT" duration="00:00:00.0851263" startTime="2016-05-08T18:56:47.6443255-03:00" endTime="2016-05-08T18:56:48.0566850-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="183a675f-17ec-4cb1-9340-80994a8526e9">
+    </UnitTestResult>
+  </Results>
+</TestRun>

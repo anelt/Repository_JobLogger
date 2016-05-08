@@ -1,0 +1,11 @@
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\ConsoleTestLogApp.exe
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\ConsoleTestLogApp.pdb
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.BusinessLayer.dll
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.Entities.dll
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.DataAccess.dll
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.BusinessLayer.pdb
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.Entities.pdb
+C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.DataAccess.pdb
+C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.csprojResolveAssemblyReference.cache
+C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.exe
+C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.pdb
