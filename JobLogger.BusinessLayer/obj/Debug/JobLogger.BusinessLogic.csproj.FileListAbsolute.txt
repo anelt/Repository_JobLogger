@@ -7,3 +7,12 @@ C:\Acueto_JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.DataAccess.dll
 C:\Acueto_JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.Entities.dll
 C:\Acueto_JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.DataAccess.pdb
 C:\Acueto_JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.BusinessLayer.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.BusinessLayer.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.DataAccess.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.Entities.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.DataAccess.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\obj\Debug\JobLogger.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\obj\Debug\JobLogger.BusinessLayer.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.BusinessLayer\obj\Debug\JobLogger.BusinessLayer.pdb

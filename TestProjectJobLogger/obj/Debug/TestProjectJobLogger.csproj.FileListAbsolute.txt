@@ -10,3 +10,15 @@ C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.csprojRe
 C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.dll
 C:\Acueto_JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.pdb
 C:\Acueto_JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.dll.config
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.dll.config
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\TestProjectJobLogger.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.BusinessLayer.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.Entities.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.DataAccess.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.BusinessLayer.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\bin\Debug\JobLogger.DataAccess.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.csprojResolveAssemblyReference.cache
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\TestProjectJobLogger\obj\Debug\TestProjectJobLogger.pdb

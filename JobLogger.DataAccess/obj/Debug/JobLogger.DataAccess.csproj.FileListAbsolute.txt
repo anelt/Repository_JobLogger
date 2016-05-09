@@ -5,3 +5,10 @@ C:\Acueto_JobLogger\JobLogger.DataAccess\obj\Debug\JobLogger.DataAccess.pdb
 C:\Acueto_JobLogger\JobLogger.DataAccess\obj\Debug\JobLogger.DataAccess.csprojResolveAssemblyReference.cache
 C:\Acueto_JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.Entities.dll
 C:\Acueto_JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.DataAccess.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.DataAccess.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.Entities.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\obj\Debug\JobLogger.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\obj\Debug\JobLogger.DataAccess.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.DataAccess\obj\Debug\JobLogger.DataAccess.pdb

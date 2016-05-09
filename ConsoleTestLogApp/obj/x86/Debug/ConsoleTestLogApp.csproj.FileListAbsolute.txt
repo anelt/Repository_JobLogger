@@ -9,3 +9,14 @@ C:\Acueto_JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.DataAccess.pdb
 C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.csprojResolveAssemblyReference.cache
 C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.exe
 C:\Acueto_JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\ConsoleTestLogApp.exe
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\ConsoleTestLogApp.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.BusinessLayer.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.Entities.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.DataAccess.dll
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.BusinessLayer.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\bin\Debug\JobLogger.DataAccess.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.csprojResolveAssemblyReference.cache
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.exe
+C:\Users\acueto\Documents\GitHub\JobLogger\ConsoleTestLogApp\obj\x86\Debug\ConsoleTestLogApp.pdb
