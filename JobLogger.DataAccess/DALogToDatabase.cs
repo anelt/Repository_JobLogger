@@ -48,6 +48,7 @@ namespace JobLogger.DataAccess
                     eMessage.Type = Convert.ToInt32(sDR["Type"]);
 
                 }
+                cnn.Close();
                 return eMessage;
             }
              catch (Exception ex)

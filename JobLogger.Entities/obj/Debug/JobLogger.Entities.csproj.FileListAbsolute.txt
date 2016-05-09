@@ -6,3 +6,4 @@ C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.Entities\bin\Debug\JobLogge
 C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.Entities\bin\Debug\JobLogger.Entities.pdb
 C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.Entities\obj\Debug\JobLogger.Entities.dll
 C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.Entities\obj\Debug\JobLogger.Entities.pdb
+C:\Users\acueto\Documents\GitHub\JobLogger\JobLogger.Entities\obj\Debug\JobLogger.Entities.csprojResolveAssemblyReference.cache
